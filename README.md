@@ -79,5 +79,21 @@ It is designed to help businesses understand performance trends, optimize produc
 
 ---
 
-```bash
-git clone https://github.com/yourusername/Streamlit_Business_Dashboard.git
+## 🖥️ Dashboard Preview
+
+### Main Dashboard
+<img src="Images/Screenshot 2026-01-18 170915.png" width="800" alt="Main Dashboard Screenshot"/>
+
+### Sales by Region
+<img src="Images/Screenshot 2026-01-18 170950.png" width="800" alt="Sales by Region"/>
+
+### Profit by Category
+<img src="Images/Screenshot 2026-01-18 171016.png" width="800" alt="Profit by Category"/>
+
+### Sales by Sub-Category
+<img src="Images/Screenshot 2026-01-18 171042.png" width="800" alt="Sales by Sub-Category"/>
+
+---
+
+
+
